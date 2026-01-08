@@ -16,4 +16,5 @@ Within the Sleeper fantasy platform, there is currently not an option for schedu
 
 
 <p>Following these checks, the schedule will be formatted into excel and exported into a CSV for use and sharing. An example schedule looking like this:</p>
-<img width="994" height="240" alt="ExampleSchedule" src="https://github.com/user-attachments/assets/a3e70c6a-8430-4aa8-a4ad-69f1e18e92e0" />
+<img width="994" height="241" alt="Output" src="https://github.com/user-attachments/assets/a18a700f-84db-4070-8b62-aefe4113d428" />
+
