@@ -4,9 +4,8 @@
 <p>
 Within the Sleeper fantasy platform, there is currently not an option for schedule creation that takes into account conferences and divisions. More specifically, there is no way to designate the ideal schedule spreading out conference play, differences in team faceoff counts, buffer periods, and division-exclusive scheduling. Rather than manually calculating this schedule, this python code allows for the dynamic creation of a schedule using the following inputs:</p>
 
-<img width="832" height="156" alt="inputs" src="https://github.com/user-attachments/assets/fd367939-1f49-4ddb-b3a2-838b2c5cbd84" />
-
 <h2>Conferences:</h2>
+<img width="832" height="156" alt="inputs" src="https://github.com/user-attachments/assets/fd367939-1f49-4ddb-b3a2-838b2c5cbd84" />
 <ul>
   <li><i>weeks</i> - total number of weeks within the fantasy season</li>
   <li><i>conference1</i> & <i>conference2</i> - complete list of team names within each conference</li>
@@ -14,6 +13,7 @@ Within the Sleeper fantasy platform, there is currently not an option for schedu
 </ul>
 
 <h2>Divisions:</h2>
+<img width="622" height="248" alt="Screenshot 2026-05-26 at 7 40 46 PM" src="https://github.com/user-attachments/assets/8a983441-11ef-4d94-a1db-6cc2dc434d27" />
 <ul>
   <li><i>weeks</i> - total number of weeks within the fantasy season</li>
   <li><i>division1</i> & <i>division2</i> & <i>division3</i> - complete list of team names within each division</li>
